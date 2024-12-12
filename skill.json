@@ -1,0 +1,249 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "summary": "Use voice commands to trigger emergency alerts and receive instant notifications when your group members need help.",
+          "examplePhrases": [
+            "Alexa, open emergency one",
+            "I am in emergency",
+            "I am worried"
+          ],
+          "keywords": [
+            "Emergency",
+            "alerts",
+            "group",
+            "notifications",
+            "voice",
+            "alerts",
+            "Safety",
+            "notifications",
+            "SOS",
+            "alerts",
+            "voice",
+            "commands",
+            "Safety",
+            "notifications"
+          ],
+          "name": "Emergency One",
+          "description": "E1 Alerts Skill lets you use voice commands to send emergency alerts and get notifications about your group members\u0027 safety status.\n\nKey Features:\n - Trigger emergency alerts hands-free using simple voice commands\n - Send worried alerts when you need assistance but aren\u0027t in immediate danger\n - Mark yourself as safe to let your group know you\u0027re okay\n - Receive instant voice notifications when group members:\n       - Trigger emergency alerts\n       - Need assistance (worried alerts)\n       - Mark themselves as safe\n\nVoice Commands:\n - \"Alexa, tell E1 to trigger emergency alert\"\n - \"Alexa, tell E1 to trigger worried alert\"\n - \"Alexa, tell E1 I\u0027m safe\"\n\nHow It Works:\n - Link your E1 app with Alexa\n - Make sure you\u0027re in a group with members\n - Use voice commands to trigger alerts or mark yourself safe\n - Alexa will notify you when group members need help\n\nRequirements:\n - Active E1 account\n - Membership in at least one group with members\n - E1 mobile app installed and connected with Alexa\n\nPrivacy \u0026 Security:\n - Alerts are only sent to your group members\n - Voice commands work only with your linked account\n - Notifications are private and secure\n\nPerfect for:\n - Families wanting quick emergency communication\n - People living alone who need a safety network\n - Communities looking for efficient emergency response\n - Anyone wanting hands-free access to emergency alerts\n\nDownload the E1 app and connect it with Alexa to start using voice commands for emergency alerts today.",
+          "smallIconUri": "file://assets/images/en-US_smallIconUri.png",
+          "updatesDescription": "This is the initial release of our Alexa Skill, designed to seamlessly integrate with our application to enhance user convenience and accessibility. The skill allows users to interact with their app through voice commands, trigger alerts, and receive real-time updates directly on their Alexa-enabled devices.",
+          "largeIconUri": "file://assets/images/en-US_largeIconUri.png"
+        },
+        "en-CA": {
+          "summary": "Use voice commands to trigger emergency alerts and receive instant notifications when your group members need help.",
+          "examplePhrases": [
+            "Alexa, open emergency one",
+            "I am in emergency",
+            "I am worried"
+          ],
+          "keywords": [
+            "Emergency",
+            "alerts",
+            "group",
+            "notifications",
+            "voice",
+            "alerts",
+            "Safety",
+            "notifications",
+            "SOS",
+            "alerts",
+            "voice",
+            "commands",
+            "Safety",
+            "notifications"
+          ],
+          "name": "Emergency One",
+          "description": "E1 Alerts Skill lets you use voice commands to send emergency alerts and get notifications about your group members\u0027 safety status.\n\nKey Features:\n - Trigger emergency alerts hands-free using simple voice commands\n - Send worried alerts when you need assistance but aren\u0027t in immediate danger\n - Mark yourself as safe to let your group know you\u0027re okay\n - Receive instant voice notifications when group members:\n       - Trigger emergency alerts\n       - Need assistance (worried alerts)\n       - Mark themselves as safe\n\nVoice Commands:\n - \"Alexa, tell E1 to trigger emergency alert\"\n - \"Alexa, tell E1 to trigger worried alert\"\n - \"Alexa, tell E1 I\u0027m safe\"\n\nHow It Works:\n - Link your E1 app with Alexa\n - Make sure you\u0027re in a group with members\n - Use voice commands to trigger alerts or mark yourself safe\n - Alexa will notify you when group members need help\n\nRequirements:\n - Active E1 account\n - Membership in at least one group with members\n - E1 mobile app installed and connected with Alexa\n\nPrivacy \u0026 Security:\n - Alerts are only sent to your group members\n - Voice commands work only with your linked account\n - Notifications are private and secure\n\nPerfect for:\n - Families wanting quick emergency communication\n - People living alone who need a safety network\n - Communities looking for efficient emergency response\n - Anyone wanting hands-free access to emergency alerts\n\nDownload the E1 app and connect it with Alexa to start using voice commands for emergency alerts today.",
+          "smallIconUri": "file://assets/images/en-CA_smallIconUri.png",
+          "updatesDescription": "This is the initial release of our Alexa Skill, designed to seamlessly integrate with our application to enhance user convenience and accessibility. The skill allows users to interact with their app through voice commands, trigger alerts, and receive real-time updates directly on their Alexa-enabled devices.",
+          "largeIconUri": "file://assets/images/en-CA_largeIconUri.png"
+        },
+        "en-IN": {
+          "summary": "Use voice commands to trigger emergency alerts and receive instant notifications when your group members need help.",
+          "examplePhrases": [
+            "Alexa, open emergency one",
+            "I am in emergency",
+            "I am worried"
+          ],
+          "keywords": [
+            "Emergency",
+            "alerts",
+            "group",
+            "notifications",
+            "voice",
+            "alerts",
+            "Safety",
+            "notifications",
+            "SOS",
+            "alerts",
+            "voice",
+            "commands",
+            "Safety",
+            "notifications"
+          ],
+          "name": "Emergency One",
+          "description": "E1 Alerts Skill lets you use voice commands to send emergency alerts and get notifications about your group members\u0027 safety status.\n\nKey Features:\n - Trigger emergency alerts hands-free using simple voice commands\n - Send worried alerts when you need assistance but aren\u0027t in immediate danger\n - Mark yourself as safe to let your group know you\u0027re okay\n - Receive instant voice notifications when group members:\n       - Trigger emergency alerts\n       - Need assistance (worried alerts)\n       - Mark themselves as safe\n\nVoice Commands:\n - \"Alexa, tell E1 to trigger emergency alert\"\n - \"Alexa, tell E1 to trigger worried alert\"\n - \"Alexa, tell E1 I\u0027m safe\"\n\nHow It Works:\n - Link your E1 app with Alexa\n - Make sure you\u0027re in a group with members\n - Use voice commands to trigger alerts or mark yourself safe\n - Alexa will notify you when group members need help\n\nRequirements:\n - Active E1 account\n - Membership in at least one group with members\n - E1 mobile app installed and connected with Alexa\n\nPrivacy \u0026 Security:\n - Alerts are only sent to your group members\n - Voice commands work only with your linked account\n - Notifications are private and secure\n\nPerfect for:\n - Families wanting quick emergency communication\n - People living alone who need a safety network\n - Communities looking for efficient emergency response\n - Anyone wanting hands-free access to emergency alerts\n\nDownload the E1 app and connect it with Alexa to start using voice commands for emergency alerts today.",
+          "smallIconUri": "file://assets/images/en-IN_smallIconUri.png",
+          "updatesDescription": "This is the initial release of our Alexa Skill, designed to seamlessly integrate with our application to enhance user convenience and accessibility. The skill allows users to interact with their app through voice commands, trigger alerts, and receive real-time updates directly on their Alexa-enabled devices.",
+          "largeIconUri": "file://assets/images/en-IN_largeIconUri.png"
+        },
+        "en-AU": {
+          "summary": "Use voice commands to trigger emergency alerts and receive instant notifications when your group members need help.",
+          "examplePhrases": [
+            "Alexa, open emergency one",
+            "I am in emergency",
+            "I am worried"
+          ],
+          "keywords": [
+            "Emergency",
+            "alerts",
+            "group",
+            "notifications",
+            "voice",
+            "alerts",
+            "Safety",
+            "notifications",
+            "SOS",
+            "alerts",
+            "voice",
+            "commands",
+            "Safety",
+            "notifications"
+          ],
+          "name": "Emergency One",
+          "description": "E1 Alerts Skill lets you use voice commands to send emergency alerts and get notifications about your group members\u0027 safety status.\n\nKey Features:\n - Trigger emergency alerts hands-free using simple voice commands\n - Send worried alerts when you need assistance but aren\u0027t in immediate danger\n - Mark yourself as safe to let your group know you\u0027re okay\n - Receive instant voice notifications when group members:\n       - Trigger emergency alerts\n       - Need assistance (worried alerts)\n       - Mark themselves as safe\n\nVoice Commands:\n - \"Alexa, tell E1 to trigger emergency alert\"\n - \"Alexa, tell E1 to trigger worried alert\"\n - \"Alexa, tell E1 I\u0027m safe\"\n\nHow It Works:\n - Link your E1 app with Alexa\n - Make sure you\u0027re in a group with members\n - Use voice commands to trigger alerts or mark yourself safe\n - Alexa will notify you when group members need help\n\nRequirements:\n - Active E1 account\n - Membership in at least one group with members\n - E1 mobile app installed and connected with Alexa\n\nPrivacy \u0026 Security:\n - Alerts are only sent to your group members\n - Voice commands work only with your linked account\n - Notifications are private and secure\n\nPerfect for:\n - Families wanting quick emergency communication\n - People living alone who need a safety network\n - Communities looking for efficient emergency response\n - Anyone wanting hands-free access to emergency alerts\n\nDownload the E1 app and connect it with Alexa to start using voice commands for emergency alerts today.",
+          "smallIconUri": "file://assets/images/en-AU_smallIconUri.png",
+          "updatesDescription": "This is the initial release of our Alexa Skill, designed to seamlessly integrate with our application to enhance user convenience and accessibility. The skill allows users to interact with their app through voice commands, trigger alerts, and receive real-time updates directly on their Alexa-enabled devices.",
+          "largeIconUri": "file://assets/images/en-AU_largeIconUri.png"
+        },
+        "en-GB": {
+          "summary": "Use voice commands to trigger emergency alerts and receive instant notifications when your group members need help.",
+          "examplePhrases": [
+            "Alexa, open emergency one",
+            "I am in emergency",
+            "I am worried"
+          ],
+          "keywords": [
+            "Emergency",
+            "alerts",
+            "group",
+            "notifications",
+            "voice",
+            "alerts",
+            "Safety",
+            "notifications",
+            "SOS",
+            "alerts",
+            "voice",
+            "commands",
+            "Safety",
+            "notifications"
+          ],
+          "name": "Emergency One",
+          "description": "E1 Alerts Skill lets you use voice commands to send emergency alerts and get notifications about your group members\u0027 safety status.\n\nKey Features:\n - Trigger emergency alerts hands-free using simple voice commands\n - Send worried alerts when you need assistance but aren\u0027t in immediate danger\n - Mark yourself as safe to let your group know you\u0027re okay\n - Receive instant voice notifications when group members:\n       - Trigger emergency alerts\n       - Need assistance (worried alerts)\n       - Mark themselves as safe\n\nVoice Commands:\n - \"Alexa, tell E1 to trigger emergency alert\"\n - \"Alexa, tell E1 to trigger worried alert\"\n - \"Alexa, tell E1 I\u0027m safe\"\n\nHow It Works:\n - Link your E1 app with Alexa\n - Make sure you\u0027re in a group with members\n - Use voice commands to trigger alerts or mark yourself safe\n - Alexa will notify you when group members need help\n\nRequirements:\n - Active E1 account\n - Membership in at least one group with members\n - E1 mobile app installed and connected with Alexa\n\nPrivacy \u0026 Security:\n - Alerts are only sent to your group members\n - Voice commands work only with your linked account\n - Notifications are private and secure\n\nPerfect for:\n - Families wanting quick emergency communication\n - People living alone who need a safety network\n - Communities looking for efficient emergency response\n - Anyone wanting hands-free access to emergency alerts\n\nDownload the E1 app and connect it with Alexa to start using voice commands for emergency alerts today.",
+          "smallIconUri": "file://assets/images/en-GB_smallIconUri.png",
+          "updatesDescription": "This is the initial release of our Alexa Skill, designed to seamlessly integrate with our application to enhance user convenience and accessibility. The skill allows users to interact with their app through voice commands, trigger alerts, and receive real-time updates directly on their Alexa-enabled devices.",
+          "largeIconUri": "file://assets/images/en-GB_largeIconUri.png"
+        }
+      },
+      "automaticDistribution": {
+        "isActive": false
+      },
+      "isAvailableWorldwide": false,
+      "testingInstructions": "{\"ask_dist_username\":\"suganya.t@techjays.com\",\"ask_dist_password\":\"Techj@ays24\",\"ask_dist_testing_instructions\":\"You can test emergency case\"}",
+      "category": "FRIENDS_AND_FAMILY",
+      "distributionMode": "PUBLIC",
+      "automaticClonedLocale": {
+        "locales": [
+          {
+            "source": "en-IN"
+          }
+        ]
+      },
+      "distributionCountries": [
+        "IN",
+        "US"
+      ]
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:533266997856:function:28839578-9389-4ef5-a7d9-84732d025e20:Release_0"
+        },
+        "interfaces": [],
+        "locales": {},
+        "regions": {
+          "EU": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:eu-west-1:533266997856:function:28839578-9389-4ef5-a7d9-84732d025e20:Release_0"
+            }
+          },
+          "NA": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-east-1:533266997856:function:28839578-9389-4ef5-a7d9-84732d025e20:Release_0"
+            }
+          },
+          "FE": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-west-2:533266997856:function:28839578-9389-4ef5-a7d9-84732d025e20:Release_0"
+            }
+          }
+        }
+      }
+    },
+    "manifestVersion": "1.0",
+    "permissions": [
+      {
+        "name": "alexa::devices:all:notifications:write"
+      }
+    ],
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "locales": {
+        "en-US": {
+          "termsOfUseUrl": "https://web.e1app.com/terms.html",
+          "privacyPolicyUrl": "https://web.e1app.com/privacy-policy.html"
+        },
+        "en-CA": {
+          "termsOfUseUrl": "https://web.e1app.com/terms.html",
+          "privacyPolicyUrl": "https://web.e1app.com/privacy-policy.html"
+        },
+        "en-IN": {
+          "termsOfUseUrl": "https://web.e1app.com/terms.html",
+          "privacyPolicyUrl": "https://web.e1app.com/privacy-policy.html"
+        },
+        "en-AU": {
+          "termsOfUseUrl": "https://web.e1app.com/terms.html",
+          "privacyPolicyUrl": "https://web.e1app.com/privacy-policy.html"
+        },
+        "en-GB": {
+          "termsOfUseUrl": "https://web.e1app.com/terms.html",
+          "privacyPolicyUrl": "https://web.e1app.com/privacy-policy.html"
+        }
+      },
+      "containsAds": false,
+      "isExportCompliant": true,
+      "isChildDirected": false,
+      "shoppingKit": {
+        "isShoppingActionsEnabled": false,
+        "isAmazonAssociatesOnAlexaEnabled": false
+      },
+      "usesPersonalInfo": true
+    },
+    "events": {
+      "endpoint": {
+        "uri": "arn:aws:lambda:us-east-1:533266997856:function:28839578-9389-4ef5-a7d9-84732d025e20:Release_0"
+      },
+      "publications": [
+        {
+          "eventName": "AMAZON.MessageAlert.Activated"
+        },
+        {
+          "eventName": "AMAZON.MediaContent.Available"
+        }
+      ]
+    }
+  }
+}

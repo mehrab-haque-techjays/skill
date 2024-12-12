@@ -1,0 +1,58 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "CreateEmergencyAlertIntent",
+          "samples": [
+            "emergency",
+            "I am in emergency",
+            "it\u0027s emergency",
+            "trigger emergency alert"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "CreateWorriedAlertIntent",
+          "samples": [
+            "I am worried",
+            "I\u0027am worried",
+            "trigger worried alert"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "MarkAsSafeIntent",
+          "samples": [
+            "I am safe now",
+            "I am safe",
+            "I\u0027m safe"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        }
+      ],
+      "types": [],
+      "invocationName": "emergency one"
+    }
+  }
+}
